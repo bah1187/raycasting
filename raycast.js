@@ -58,4 +58,5 @@ function draw() {
     update();
 
     grid.render();
+  
 }
